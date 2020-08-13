@@ -1,21 +1,21 @@
-#emirps
+# emirps
 
 Utility for generating emirps, prime numbers that result in a different prime when its digits are reversed in base-10
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```bash
 Usage: emirps <finish>
        emirps <start> <finish>
 ```
 
-##Example
+## Example
 
 ```bash
 $ emirps 100
